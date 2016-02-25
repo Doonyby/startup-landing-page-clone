@@ -1,5 +1,13 @@
+html {
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
 body {
 	background-color: LightGrey;
+
 }
 
 div {
@@ -11,13 +19,20 @@ div {
 	background-color: #fff
 }
 .top-navigation > .content {
-	width: 768px;
-	height: 70px;
+	width: 60rem;
+	height: 4.375rem;
 	margin: 0 auto;
+	padding: 0px 15px;
+	font-family: "roboto" , sans-serif;
+	font-size: 16px;
+	color: #838994;
+	letter-spacing: 0.03em;
+	margin-top: 24px;
 }
 .top-navigation > .content > .links {
 	float: right;
 }
 .links > li {
 	display: inline-block;
+	margin-left: 2em;
 }

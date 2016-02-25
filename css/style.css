@@ -15,4 +15,9 @@ div {
 	height: 70px;
 	margin: 0 auto;
 }
-
+.top-navigation > .content > .links {
+	float: right;
+}
+.links > li {
+	display: inline-block;
+}

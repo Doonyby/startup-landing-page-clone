@@ -11,21 +11,10 @@ div {
 	background-color: #fff
 }
 .top-navigation > .content {
-	width: 970px;
-	height: 70px:
+	width: 740px;
+	height: 70px;
 	margin: 0 auto;
 }
-	height: 4.375rem;
-	max-width: 60em;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: left
-}
-
-.content {
-	text-align: right;
-}
-.links > li {
-	display: inline-block;
-	font-size: 1em;
+.logo {
+	vertical-align: 0 auto
 }

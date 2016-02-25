@@ -11,10 +11,8 @@ div {
 	background-color: #fff
 }
 .top-navigation > .content {
-	width: 740px;
+	width: 768px;
 	height: 70px;
 	margin: 0 auto;
 }
-.logo {
-	vertical-align: 0 auto
-}
+

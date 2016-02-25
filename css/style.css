@@ -5,21 +5,27 @@ body {
 div {
 	border: 1px solid Chocolate;
 }
+/*navigation section*/
 
-.header {
+.top-navigation {
+	background-color: #fff
+}
+.top-navigation > .content {
+	width: 970px;
+	height: 70px:
+	margin: 0 auto;
+}
+	height: 4.375rem;
 	max-width: 60em;
 	margin-left: auto;
 	margin-right: auto;
-	text-align: 
+	text-align: left
 }
 
-.navigation {
+.content {
 	text-align: right;
-	padding: 1em;
 }
-.navigation > li {
+.links > li {
 	display: inline-block;
 	font-size: 1em;
-	white-space: 2em
-	
 }

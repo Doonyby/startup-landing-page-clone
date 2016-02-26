@@ -44,3 +44,9 @@ div {
 	color: #4c5058;
 	font-weight: 500;
 }
+.middle-content {
+	background: url("images/karma-background.jpg") no-repeat;
+	background-size: cover;
+	text-align: center;
+	
+}

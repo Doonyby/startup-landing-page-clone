@@ -18,6 +18,9 @@ div {
 
 .top-navigation {
 	background-color: #fff;
+	position: fixed;
+	width: 100%;
+	z-index: 9999;
 }
 .top-navigation > .content {
 	height: 4.375rem;
@@ -99,7 +102,7 @@ h2 {
 .cases .devices {
 	box-sizing: border-box;
 	width: 33.33333%;
-	height: 4em;
+	height: 8em;
 	display: inline-block;
 	border: 1px solid black;
 

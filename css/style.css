@@ -17,7 +17,7 @@ div {
 /*navigation section*/
 
 .top-navigation {
-	background-color: #fff
+	background-color: #fff;
 }
 .top-navigation > .content {
 	height: 4.375rem;
@@ -87,3 +87,22 @@ button {
 button:hover {
 	background-color: #d65024;
 }
+h2 {
+	font-weight: 100;
+	font-size: 2em;
+	margin-top: 20em;
+	text-align: center;
+}
+.cases {
+	margin-top: 8em;
+}
+.cases .devices {
+	box-sizing: border-box;
+	width: 33.33333%;
+	height: 4em;
+	display: inline-block;
+	border: 1px solid black;
+
+}
+
+

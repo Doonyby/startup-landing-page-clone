@@ -116,4 +116,29 @@ li > .icons {
 	font-size: 1.563rem;
 	color: #000;
 }
+.join {
+	text-align: center;
+	font-weight: 300;
 
+}
+.icons-social {
+	text-align: center;
+}
+.icons-social > li {
+	padding: .625rem;
+	display: inline-block;
+	border: 1px solid #eaebec;
+	width: 2.5rem;
+	height: 2.5rem;
+	border-radius: 1.25rem 1.25rem;
+	margin: 1.25rem 5px;
+}
+.facebook {
+	color: #4c66a4;
+}
+.twitter {
+	color: #55acee;
+}
+.instagram {
+	color: #3f729b;
+}

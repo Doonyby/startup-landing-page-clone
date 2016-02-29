@@ -100,16 +100,20 @@ h2 {
 .cases {
 	margin-top: 8em;
 }
-.cases .devices {
+.devices > li {
+	display: inline-block;
 	box-sizing: border-box;
 	width: 32%;
-	height: 8em;
-	display: inline-block;
+	height: 16em;
 	border: 1px solid black;
 }
-.icons {
+li > .icons {
 	height: 8em;
-	position: center;
-	
+	margin-left: 3em;
+}
+.caption > h3 {
+	font-weight: 400;
+	font-size: 1.563rem;
+	color: #000;
 }
 

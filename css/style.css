@@ -116,6 +116,9 @@ li > .icons {
 	font-size: 1.563rem;
 	color: #000;
 }
+.line {
+	margin-top: 3rem;
+}
 .join {
 	text-align: center;
 	font-weight: 300;
@@ -123,15 +126,16 @@ li > .icons {
 }
 .icons-social {
 	text-align: center;
+	padding: 0;
 }
 .icons-social > li {
-	padding: .625rem;
+	padding: .675rem;
 	display: inline-block;
 	border: 1px solid #eaebec;
 	width: 2.5rem;
 	height: 2.5rem;
 	border-radius: 1.25rem 1.25rem;
-	margin: 1.25rem 5px;
+	margin: 5px 5px;
 }
 .facebook {
 	color: #4c66a4;
@@ -141,4 +145,11 @@ li > .icons {
 }
 .instagram {
 	color: #3f729b;
+}
+.copy {
+	text-align: center;
+	color: 838994;
+	font-weight: 300;
+	font-size: .9rem;
+	margin-bottom: 10em;
 }

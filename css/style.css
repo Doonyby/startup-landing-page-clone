@@ -105,7 +105,6 @@ h2 {
 	box-sizing: border-box;
 	width: 32%;
 	height: 16em;
-	border: 1px solid black;
 }
 li > .icons {
 	height: 8em;
@@ -118,9 +117,6 @@ li > .icons {
 }
 .line {
 	margin-top: 3rem;
-}
-hr {
-	color: yellow;
 }
 .join {
 	text-align: center;
